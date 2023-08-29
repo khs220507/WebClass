@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link href="./register.css" rel="stylesheet"/>
+<script>
+	function check(){
+			
+		let afrm = document.afrm;
+		let JOIN_ID = afrm.JOIN_ID;
+		let JOIN_NM = afrm.JOIN_NM;
+		let YEAR = afrm.YEAR;
+		let MONTH = afrm.MONTH;
+		let DAY = afrm.DAY;
+		let SPECIALTY = afrm.SPECIALTY;
+		let CHARM = afrm.CHARM;
+		
+		if(JOIN_ID.value==""){
+			alert("아이디입력");
+			JOIN_ID.focus();
+			return false;
+		} else if (JOIN_NM.value==""){
+			alert("이름입력");
+			JOIN_NM.focus;
+			return false;
+		}else if (YEAR.value==""){
+			alert("년도입력");
+			YEAR.focus;
+			return false;
+		}else if (MONTH.value==""){
+			alert("월입력");
+			MONTH.focus;
+			return false;
+		}else if (DAY.value==""){
+			alert("일입력");
+			DAY.focus;
+			return false;
+		}else if (SPECIALTY.value=="선택"){
+			alert("실력입력");
+			SPECIALTY.focus;
+			return false;
+		} else if (CHARM.value=="선택"){
+			alert("매력입력");
+			CHARM.focus;
+			return false;
+		}
+		
+	}
+</script>
+</head>
+<body>
+	
+	<form name="afrm" action="register_action.jsp" method="post", onsubmit="return check()">
+	<table>
+		<caption><strong>참가자 등록</strong></caption>
+		<tr>
+			<td>참가자ID</td>
+			<td><input type="text" name="JOIN_ID"></td>
+		</tr>
+		<tr>
+			<td>참가자이름</td>
+			<td><input type="text" name="JOIN_NM"></td>
+		</tr>
+		<tr>
+			<td>생년월일</td>
+			<td><input type="text" name="YEAR">년<input type="text" name="MONTH">월<input type="text" name="DAY">일</td>
+		</tr>
+		<tr>
+			<td>성별</td>
+			<td><input type="radio">남
+			<input type="radio">여</td>
+		</tr>
+		<tr>
+			<td>실력무대</td>
+			<td><select name="SPECIALTY">
+				<option value="선택">선택</option>
+				<option>보컬</option>
+				<option>댄스</option>
+				<option>랩</option>
+			</select></td>
+		</tr>
+		<tr>
+			<td>매력무대</td>
+			<td><input type="text" name="CHARM"></td>
+		</tr>
+		<tr>
+			<td colspan="2"><button>저장</button>
+			<button>취소</button></td>
+			
+		</tr>
+	</table>
+</body>
+</html>

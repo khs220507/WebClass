@@ -1,0 +1,11 @@
+package prj0825;
+
+
+public class MyHello {
+	
+	public String getHello(String name) {
+		String myHello = name + " 님 안녕하세요.";
+		return myHello;
+	}
+
+}

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Insert title here</title>
+	<link href="./css/register_taxi.css" rel="stylesheet" />
+	<script>
+		function check() {
+
+			let taxi_form = document.taxi_form;
+			let regno = taxi_form.regno;
+			let regtime = taxi_form.regtime;
+			let regdate = taxi_form.regdate;
+			let id = taxi_form.id;
+			let startpoint = taxi_form.startpoint;
+			if (regno.value == "") {
+				alert("예약번호를 입력하세요!");
+				regno.focus();
+				return false;
+			} else if (regtime.value == "") {
+				alert("예약시간을 입력하세요!");
+				regtime.focus;
+				return false;
+			} else if (regdate.value == "") {
+				alert("예약날짜를 입력하세요!");
+				regdate.focus;
+				return false;
+			} else if (id.value == "") {
+				alert("아이디를 입력하세요!");
+				id.focus;
+				return false;
+			} else if (startpoint.value == "") {
+				alert("시작지점을 입력하세요!");
+				startpoint.focus;
+				return false;
+			} else if (destination.value == "") {
+				alert("도착지점을 입력하세요!");
+				destination.focus;
+				return false;
+			} else if (destination.value == "") {
+				alert("도착지점을 입력하세요!");
+				destination.focus;
+				return false;
+			} 
+	</script>
+</head>
+
+<body>
+	<form name="taxi_form" action="register_action.jsp" method="post" onsubmit="return check()">
+		<table>
+			<caption><strong>택시 예약 등록</strong></caption>
+			<tr>
+				<td>예약번호</td>
+				<td><input type="text" name="regno"></td>
+			</tr>
+			<tr>
+				<td>예약시간</td>
+				<td><input type="text" name="regtime"></td>
+			</tr>
+			<tr>
+				<td>예약날짜</td>
+				<td><input type="text" name="regdate"></td>
+			</tr>
+			<tr>
+				<td>고객아이디</td>
+				<td><input type="text" name="id"></td>
+			</tr>
+			<tr>
+				<td>출발지</td>
+				<td><input type="text" name="startpoint"></td>
+			</tr>
+			<tr>
+				<td>목적지</td>
+				<td><input type="text" name="destination"></td>
+			</tr>
+			<tr>
+				<td>택시번호</td>
+				<td><input type="text" name="taxino"></td>
+			</tr>
+			<tr>
+				<td>배차상태</td>
+				<td><select name="state">
+						<option>선택하기</option>
+						<option>배차완료</option>
+						<option>배차준비</option>
+						<option>배차미정</option>
+					</select></td>
+			</tr>
+			<tr>
+				<td colspan="2"><button>등록</button>
+					<button>다시입력</button>
+				</td>
+
+
+			</tr>
+		</table>
+
+</body>
+
+</html>

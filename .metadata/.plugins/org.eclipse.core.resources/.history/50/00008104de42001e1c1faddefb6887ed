@@ -1,0 +1,26 @@
+package prj;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/divisor0")
+public class MyDivisorSerrvlet0 extends HttpServlet {
+	@Override
+	protected void service(HttpServletRequest request, HttpServletResponse reqResponse) throws ServletException, IOException {
+		int num = 10; 
+		int[] nums = new int[10];
+		int index = 0;
+		for(int i=1; i<=num; i++) {
+			if(num % i == 0) {
+				nums[index]=i;
+				index++;
+			}
+		}
+	}
+
+}

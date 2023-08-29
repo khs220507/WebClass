@@ -1,0 +1,12 @@
+package prj0825;
+
+import java.util.ArrayList;
+
+public class MyHello {
+	
+	public String getHello(String name) {
+		String myHello = name + " 님 안녕하세요.";
+		return myHello;
+	}
+
+}

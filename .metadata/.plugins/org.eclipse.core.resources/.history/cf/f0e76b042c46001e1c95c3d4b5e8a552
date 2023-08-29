@@ -1,0 +1,61 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<form name="taxi_form" action="" method="post" onsubmit="return check()">
+		<table>
+			<caption><strong>택시 예약 등록</strong></caption>
+			<tr>
+				<td>예약번호</td>
+				<td><input type="text" name="regno"></td>
+			</tr>
+			<tr>
+				<td>예약시간</td>
+				<td><input type="text" name="regtime"></td>
+			</tr>
+			<tr>
+				<td>예약날짜</td>
+				<td><input type="text" name="regdate"></td>
+			</tr>
+			<tr>
+				<td>고객아이디</td>
+				<td><input type="text" name="id"></td>
+			</tr>
+			<tr>
+				<td>출발지</td>
+				<td><input type="text" name="startpoint"></td>
+			</tr>
+			<tr>
+				<td>목적지</td>
+				<td><input type="text" name="destination"></td>
+			</tr>
+			<tr>
+				<td>택시번호</td>
+				<td><input type="text" name="taxino"></td>
+			</tr>
+			<tr>
+				<td>배차상태</td>
+				<td><select name="state">
+						<option value="선택하기">선택하기</option>
+						<option value="배차완료">배차완료</option>
+						<option value="배차준비">배차준비</option>
+						<option value="배차미정">배차미정</option>
+					</select></td>
+			</tr>
+			<tr>
+				<td colspan="2"><button>등록</button>
+					<button>다시입력</button>
+				</td>
+
+
+			</tr>
+		</table>
+
+</body>
+</html>

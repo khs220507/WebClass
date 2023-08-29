@@ -1,0 +1,30 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    
+    
+<%
+// 0. 넘어온 값들에 대해서 encoding
+request.setCharacterEncoding("UTF-8");
+// 1. 넘어온 값들 꺼내기
+String userid = request.getParameter("userid");
+String userpw = request.getParameter("userpw");
+String username = request.getParameter("username");
+// 2. 데이터베이스 테이블에 insert
+// 3. 특정페이지로 재요청할 수 있도록 한다.
+response.sendRedirect("index.jsp");
+%>
+    
+    
+    
+    
+    
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+ 데이터베이스 연동 코드입력
+</body>
+</html>

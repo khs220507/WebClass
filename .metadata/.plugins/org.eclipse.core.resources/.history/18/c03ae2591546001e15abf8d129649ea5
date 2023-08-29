@@ -1,0 +1,22 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    
+    <%
+    
+    //1.
+    request.setCharacterEncoding("UTF-8");
+    
+    //2.
+    String userid = request.getParameter("userid");
+    String userpw = request.getParameter("userpw");
+    String username = request.getParameter("username");
+    
+    out.println(userid);
+    out.println(userpw);
+    out.println(username);
+    
+    // 데이터베이스 연결, sql, update 실행
+    
+    // response.sendRedirect("index.jsp");
+    
+    %>

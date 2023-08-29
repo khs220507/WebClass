@@ -1,0 +1,11 @@
+1693279689346	Move '데이터베이스연동.jsp' to 'webapp'
+1693284053934	Move 'ojdbc8.jar' to 'lib'
+1693285131896	Move 'updateForm.jsp' to 'webapp'
+1693286603538	Delete element
+1693287122745	Delete element
+1693289333995	Rename resource 'updateForm.jsp'
+1693289339623	Rename resource 'deleteForm.jsp'
+1693289398354	Delete element
+1693289673487	Delete element
+1693289728389	Move 'update_action.jsp' to 'webapp'
+1693295751883	Rename resource 'delete.jsp'
