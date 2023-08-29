@@ -287,3 +287,14 @@
 8월 29, 2023 16:15:56.564 [13400:916:0829/161556.563:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 29, is_from_expiration = 0, deletion_reason = 0
 8월 29, 2023 16:15:59.801 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 8월 29, 2023 16:28:15.530 [13400:5720:0829/162815.530:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+8월 29, 2023 17:22:15.619 [18440:944:0829/172215.619:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 20, is_from_expiration = 0, deletion_reason = 0
+8월 29, 2023 17:22:18.162 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+8월 29, 2023 17:22:50.306 [9544:12540:0829/172250.305:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 5, is_from_expiration = 0, deletion_reason = 0
+8월 29, 2023 17:22:50.323 [9544:12540:0829/172250.321:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 6, is_from_expiration = 0, deletion_reason = 0
+8월 29, 2023 17:22:52.570 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+8월 29, 2023 17:24:32.606 [19792:10392:0829/172432.587:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 3, is_from_expiration = 0, deletion_reason = 0
+8월 29, 2023 17:24:32.651 [19792:10392:0829/172432.609:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 30, is_from_expiration = 0, deletion_reason = 0
+8월 29, 2023 17:24:34.867 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+8월 29, 2023 17:41:30.976 [15724:2008:0829/174130.974:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 17, is_from_expiration = 0, deletion_reason = 0
+8월 29, 2023 17:41:30.997 [15724:2008:0829/174130.997:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 1, is_from_expiration = 0, deletion_reason = 0
+8월 29, 2023 17:41:34.362 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
