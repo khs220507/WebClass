@@ -147,7 +147,7 @@ String state = "";
 			<tr>
 				<td>출발지</td>
 				<td><input type="text" name="startpoint"></td>
-			</tr>
+			</tr>d
 			<tr>
 				<td>목적지</td>
 				<td><input type="text" name="destination"></td>
