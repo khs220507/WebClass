@@ -1,7 +1,0 @@
-@charset "UTF-8";
-
-header{
-	height: 100px;
-	padding : 20px;
-	color:green;
-}

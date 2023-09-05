@@ -676,3 +676,140 @@
 9월 01, 2023 17:44:26.835 [19840:14372:0901/174426.835:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
 9월 01, 2023 17:44:46.967 [19840:14372:0901/174446.967:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
 9월 01, 2023 17:46:05.967 [19840:14372:0901/174605.966:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+9월 05, 2023 09:27:11.16 NEW SESSION
+9월 05, 2023 09:27:11.17 [11928:6352:0905/092711.013:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 18, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 09:27:11.36 [11928:6352:0905/092711.034:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 3, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 09:27:13.602 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 09:27:55.589 [316:12984:0905/092755.587:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 27, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 09:27:55.608 [316:12984:0905/092755.608:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 20, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 09:27:57.853 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 09:28:14.195 [14428:13252:0905/092814.190:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 17, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 09:28:14.212 [14428:13252:0905/092814.205:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 72, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 09:51:26.02 [21036:4724:0905/095126.001:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 42, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 09:51:26.14 [21036:4724:0905/095126.013:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 67, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 09:51:28.583 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 10:18:14.197 [13504:10192:0905/101814.197:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 43, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 10:18:14.216 [13504:10192:0905/101814.216:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 29, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 10:18:16.511 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 10:21:36.148 [14908:5112:0905/102136.147:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 36, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 10:21:36.162 [14908:5112:0905/102136.160:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 56, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 10:21:38.649 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 10:25:31.53 [18188:18576:0905/102531.052:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 44, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 10:25:31.76 [18188:18576:0905/102531.075:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 24, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 10:25:33.290 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 11:14:02.81 [6260:21372:0905/111402.080:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 14, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:14:02.94 [6260:21372:0905/111402.093:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 15, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:17:49.407 [2636:17144:0905/111749.406:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 12, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:17:49.421 [2636:17144:0905/111749.421:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 34, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:26:16.663 [832:20408:0905/112616.662:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 39, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:26:16.679 [832:20408:0905/112616.679:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 44, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:26:19.320 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 11:27:07.181 [5500:2568:0905/112707.159:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 40, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:27:07.183 [5500:2568:0905/112707.177:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 18, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:27:09.713 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 11:29:58.381 [14868:21476:0905/112958.379:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 6, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:29:58.414 [14868:21476:0905/112958.393:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 50, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:30:01.244 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 11:30:45.785 [9024:9892:0905/113045.784:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 10, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:30:45.794 [9024:9892:0905/113045.794:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 38, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:30:48.640 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 11:47:24.609 [17548:18324:0905/114724.607:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 30, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:47:24.633 [17548:18324:0905/114724.633:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 58, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 11:47:27.340 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 12:12:51.796 [19024:10368:0905/121251.796:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 71, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:12:51.804 [19024:10368:0905/121251.803:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 16, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:12:51.833 [19024:10368:0905/121251.820:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 8, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:12:54.354 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 12:30:38.14 [15516:14480:0905/123038.013:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 7, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:30:38.22 [15516:14480:0905/123038.021:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 9, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:30:45.973 [5544:11744:0905/123045.972:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 41, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:30:45.991 [5544:11744:0905/123045.990:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 11, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:30:49.187 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 12:40:26.691 [3660:1460:0905/124026.690:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 5, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:40:26.700 [3660:1460:0905/124026.700:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 23, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:40:28.928 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 12:40:54.810 [3124:20912:0905/124054.806:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 33, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:40:54.824 [3124:20912:0905/124054.824:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 2, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:48:54.810 [13848:12804:0905/124854.810:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 66, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:48:54.825 [13848:12804:0905/124854.825:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 54, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 12:48:57.347 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 14:09:37.146 [812:20360:0905/140937.144:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 43, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 14:09:37.162 [812:20360:0905/140937.162:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 34, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 14:09:39.472 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 14:09:49.478 [812:17712:0905/140949.478:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+9월 05, 2023 14:11:45.523 [19296:3548:0905/141145.522:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 46, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 14:11:45.536 [19296:3548:0905/141145.536:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 24, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 14:11:48.172 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 14:30:06.330 [14016:9124:0905/143006.329:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 15, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 14:30:06.333 [14016:9124:0905/143006.333:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 5, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 14:30:09.296 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 14:33:53.807 [3716:9400:0905/143353.807:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 9, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 14:33:53.822 [3716:9400:0905/143353.811:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 50, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 14:33:53.832 [3716:9400:0905/143353.831:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 52, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 14:33:56.240 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:05:15.358 [12696:15368:0905/150515.355:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 44, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:05:15.372 [12696:15368:0905/150515.372:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 47, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:05:17.881 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:05:53.35 [12764:3580:0905/150553.031:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 54, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:05:53.37 [12764:3580:0905/150553.037:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 43, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:05:53.66 [12764:3580:0905/150553.047:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 20, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:05:55.313 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:06:26.316 [4032:19496:0905/150626.315:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 60, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:06:26.323 [4032:19496:0905/150626.323:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 93, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:16:10.302 [11620:564:0905/151610.302:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 81, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:16:10.315 [11620:564:0905/151610.315:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 87, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:16:22.675 [11064:21068:0905/151622.675:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 85, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:16:22.689 [11064:21068:0905/151622.681:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 70, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:16:22.698 [11064:21068:0905/151622.698:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 70, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:16:25.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:37:16.165 [6704:10188:0905/153716.161:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 17, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:37:16.175 [6704:10188:0905/153716.175:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 47, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:37:18.431 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:37:47.564 [5640:11164:0905/153747.564:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 38, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:37:47.578 [5640:11164:0905/153747.578:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 60, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:37:49.834 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:38:36.992 [19820:10776:0905/153836.991:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 58, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:38:37.00 [19820:10776:0905/153836.999:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 56, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:38:37.12 [19820:10776:0905/153837.012:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 49, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:40:25.249 [3968:7212:0905/154025.245:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 40, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:40:25.254 [3968:7212:0905/154025.254:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 55, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:40:28.104 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:40:42.572 [11056:6812:0905/154042.572:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 34, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:40:42.578 [11056:6812:0905/154042.577:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 33, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:40:42.596 [11056:6812:0905/154042.596:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 35, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:40:44.855 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:42:26.36 [13816:6796:0905/154226.030:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 46, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:42:26.47 [13816:6796:0905/154226.047:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 57, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:42:28.740 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:43:34.646 [13440:12312:0905/154334.645:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 50, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:43:34.652 [13440:12312:0905/154334.650:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 37, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:43:37.462 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:44:25.844 [1620:12488:0905/154425.844:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 43, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:44:25.858 [1620:12488:0905/154425.858:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 39, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:44:25.871 [1620:12488:0905/154425.868:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 50, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:44:28.655 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:46:19.939 [19496:3728:0905/154619.936:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 46, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:46:19.953 [19496:3728:0905/154619.949:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 79, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:46:22.785 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:46:51.176 [18568:8064:0905/154651.174:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 38, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:46:51.189 [18568:8064:0905/154651.180:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 42, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:46:51.195 [18568:8064:0905/154651.194:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 30, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:46:53.387 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:57:03.439 [13612:8224:0905/155703.439:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 38, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:57:03.472 [13612:8224:0905/155703.442:ERROR:navigation_entry_remover.cc(221)] RemoveNavigationEntries(), deleted_rows count = 25, is_from_expiration = 0, deletion_reason = 0
+9월 05, 2023 15:57:05.753 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:57:35.62 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 15:59:50.412 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 16:00:47.476 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 16:03:21.899 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 16:06:06.26 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+9월 05, 2023 16:29:51.393 NEW SESSION
+9월 05, 2023 16:29:51.393 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 16:32:14.420 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 16:33:27.459 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 16:34:09.550 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 17:11:48.762 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 17:19:41.583 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 05, 2023 17:36:04.646 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

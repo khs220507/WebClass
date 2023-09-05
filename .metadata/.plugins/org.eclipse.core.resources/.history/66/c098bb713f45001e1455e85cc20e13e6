@@ -1,3 +1,0 @@
-function hi(){
-	let userNameTag = document.getElementById("userName");
-}

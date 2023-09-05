@@ -5,7 +5,6 @@
     <fullyQualifiedTypeName name="java.io.PrintWriter"/>
     <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
     <fullyQualifiedTypeName name="java.lang.Boolean"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="prj0831.ServiceMVC3"/>
     <fullyQualifiedTypeName name="prj0901.HelloService"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
@@ -14,16 +13,23 @@
     <fullyQualifiedTypeName name="prj0901.AcornService"/>
     <fullyQualifiedTypeName name="prj0901.Customer"/>
     <fullyQualifiedTypeName name="prj0901_Training.CoffeeDAO"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="javax.swing.text.DefaultHighlighter.DefaultHighlightPainter"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
-    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
     <fullyQualifiedTypeName name="javax.security.auth.message.callback.PrivateKeyCallback.Request"/>
     <fullyQualifiedTypeName name="prj0901_Training.CoffeeService"/>
     <fullyQualifiedTypeName name="prj0901_Training.Coffee"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="cartPrj.ItemService"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="prj0905_myProject.TheaterService"/>
+    <fullyQualifiedTypeName name="prj0905_myProject.TheaterDAO"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="prj0905_myProject.Customer"/>
 </qualifiedTypeNameHistroy>

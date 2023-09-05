@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="20">
-    <list key="modules" value0="prj0830_학습내용::org.eclipse.jst.jee.server:prj0830_학습내용::jst.web::4.0" value1="prj0830_Theater::org.eclipse.jst.jee.server:prj0830_Theater::jst.web::4.0" value2="prj0831_라이브러리::org.eclipse.jst.jee.server:prj0831_라이브러리::jst.web::4.0" value3="prj0831::org.eclipse.jst.jee.server:prj0831::jst.web::4.0" value4="prj0901::org.eclipse.jst.jee.server:prj0901::jst.web::4.0" value5="prj0901_Training::org.eclipse.jst.jee.server:prj0901_Training::jst.web::4.0"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="30">
+    <list key="modules" value0="prj0905_myProject::org.eclipse.jst.jee.server:prj0905_myProject::jst.web::4.0" value1="prj0901::org.eclipse.jst.jee.server:prj0901::jst.web::4.0" value2="login_0905::org.eclipse.jst.jee.server:login_0905::jst.web::4.0"/>
   </server>
 </servers>
