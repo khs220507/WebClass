@@ -2,7 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.security.Provider.Service"/>
     <fullyQualifiedTypeName name="org.apache.catalina.connector.Response"/>
-    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
     <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
     <fullyQualifiedTypeName name="java.lang.Boolean"/>
     <fullyQualifiedTypeName name="prj0831.ServiceMVC3"/>
@@ -22,8 +21,6 @@
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="cartPrj.ItemService"/>
     <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
-    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
-    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
     <fullyQualifiedTypeName name="prj0905_myProject.TheaterService"/>
     <fullyQualifiedTypeName name="prj0905_myProject.TheaterDAO"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
@@ -32,4 +29,9 @@
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="oracle.sql.json.OracleJsonObject"/>
+    <fullyQualifiedTypeName name="org.json.JSONObject"/>
 </qualifiedTypeNameHistroy>

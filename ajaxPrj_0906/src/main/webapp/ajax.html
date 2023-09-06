@@ -13,9 +13,10 @@
 			dataType:"text",
 			url:"/ajaxPrj_0906/food0",
 			success:function(data, status){
-				$("#result").html(data);
+				$("#list_result").html(data);
 				console.log(data);
 				console.log(status);
+				// $("#list_result").append("<li>data.name</li>");
 			},
 			error: function(err){
 				console.log(err);
@@ -23,12 +24,17 @@
 				
 			}
 		});
+		
 	}
+	
+	
 </script>
 </head>
 <body>
 	<button onclick="send()">음식정보</button>
-	<div id="result"></div>
+	
+	<ul id="list_result">
+	</ul>
 
 </body>
 </html>

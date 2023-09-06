@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Insert title here</title>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+	<script>
+		function send() {
+			$.ajax({
+				type: "get",
+				dataType: "json",
+				url: "/ajaxPrj_0906_movie_practice/movies",
+				success: function (data) {
+					$("#list_result").empty();
+					for(let i=0; i<data.length; i++){
+						$("#list_result").append("<hr>영화제목 : " + data[i].name + ", 런타임 : " + data[i].runtime + "분<br>");
+						
+					}
+					
+
+				},
+				error: function (err) {
+					alert("요청 실패!")
+				}
+
+			});
+		}
+	</script>
+</head>
+
+<body>
+
+	<button onclick="send()">모든 영화 정보</button>
+	<div id="list_result"></div>
+
+</body>
+
+</html>
