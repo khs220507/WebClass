@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<script>
+	let snack = {
+		name:"맛동산",
+		price:3800	
+		};
+	let score = {
+		name :"홍길동",
+		kor : 90,
+		eng : 95,
+		math : 80,
+		total : 0,
+		
+		calcTotal : function(){
+			this.total = this.kor + this.eng + this.math;
+		},
+		
+		hello : function(){
+			alert("score 객체 Hello!");
+		}
+	}
+	score.hello();
+	score.calcTotal();
+	console.log(score.total);
+</script>
+</body>
+</html>

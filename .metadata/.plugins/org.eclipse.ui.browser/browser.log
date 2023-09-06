@@ -813,3 +813,29 @@
 9월 05, 2023 17:11:48.762 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 9월 05, 2023 17:19:41.583 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 9월 05, 2023 17:36:04.646 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+9월 06, 2023 10:06:01.55 NEW SESSION
+9월 06, 2023 10:06:01.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 10:09:01.524 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 10:23:34.854 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 10:30:51.324 [13916:12308:0906/103051.324:ERROR:interface_endpoint_client.cc(702)] Message 1 rejected by interface blink.mojom.WidgetHost
+9월 06, 2023 10:36:00.375 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 10:36:46.698 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 11:16:36.310 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 11:19:03.117 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 11:26:29.954 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 11:27:02.873 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 11:28:40.982 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+9월 06, 2023 11:36:43.948 NEW SESSION
+9월 06, 2023 11:36:43.948 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 11:38:10.66 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 11:44:50.670 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 11:45:24.283 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+9월 06, 2023 12:20:30.57 NEW SESSION
+9월 06, 2023 12:20:30.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 12:35:45.508 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 12:35:55.464 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 12:36:03.449 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 06, 2023 12:36:39.815 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

@@ -5,7 +5,7 @@ public class ReservationInfo {
 	String id;
 	String pw;
 	String name;
-	String phone;
+//	String phone;
 	String r_num;
 	String o_id;
 	String o_code;
@@ -35,12 +35,12 @@ public class ReservationInfo {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public String getPhone() {
-		return phone;
-	}
-	public void setPhone(String phone) {
-		this.phone = phone;
-	}
+//	public String getPhone() {
+//		return phone;
+//	}
+//	public void setPhone(String phone) {
+//		this.phone = phone;
+//	}
 	public String getR_num() {
 		return r_num;
 	}
@@ -109,7 +109,7 @@ public class ReservationInfo {
 		this.id = id;
 		this.pw = pw;
 		this.name = name;
-		this.phone = phone;
+//		this.phone = phone;
 		this.r_num = r_num;
 		this.o_id = o_id;
 		this.o_code = o_code;
@@ -123,13 +123,13 @@ public class ReservationInfo {
 	}
 	
 	
-	@Override
-	public String toString() {
-		return "ReservationInfo [id=" + id + ", pw=" + pw + ", name=" + name + ", phone=" + phone + ", r_num=" + r_num
-				+ ", o_id=" + o_id + ", o_code=" + o_code + ", o_cnt=" + o_cnt + ", m_code=" + m_code + ", m_title="
-				+ m_title + ", m_genre=" + m_genre + ", m_price=" + m_price + ", m_runtime=" + m_runtime
-				+ ", m_start_end=" + m_start_end + "]";
-	}
+//	@Override
+//	public String toString() {
+//		return "ReservationInfo [id=" + id + ", pw=" + pw + ", name=" + name + ", phone=" + phone + ", r_num=" + r_num
+//				+ ", o_id=" + o_id + ", o_code=" + o_code + ", o_cnt=" + o_cnt + ", m_code=" + m_code + ", m_title="
+//				+ m_title + ", m_genre=" + m_genre + ", m_price=" + m_price + ", m_runtime=" + m_runtime
+//				+ ", m_start_end=" + m_start_end + "]";
+//	}
 	
 	
 

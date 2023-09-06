@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.0/jquery.min.js"></script>
+<script>
+	function changeCSS(){
+		let div = document.querySelector("#wrap");
+		div.style.color="red";
+	}
+	function changeCSS2(){
+		$("#wrap").css("color","green");
+	}
+</script>
+	
+</head>
+<body>
+
+<button id="btn1" onclick="changeCSS()">버튼01</button>
+<button id="btn2" onclick="changeCSS2()">버튼02</button>
+<div id="wrap">글씨</div>
+
+</body>
+</html>
