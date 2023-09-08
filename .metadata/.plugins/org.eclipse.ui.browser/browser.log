@@ -855,3 +855,54 @@
 9월 06, 2023 16:22:26.803 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 9월 06, 2023 16:29:35.611 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 9월 06, 2023 17:08:16.604 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+9월 07, 2023 11:11:26.415 NEW SESSION
+9월 07, 2023 11:11:26.415 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 07, 2023 11:11:42.396 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 07, 2023 11:49:27.906 [19776:13452:0907/114927.905:ERROR:device_event_log_impl.cc(222)] [11:49:27.835] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+9월 07, 2023 11:49:28.05 [19776:13452:0907/114928.005:ERROR:gpu_process_host.cc(956)] GPU process exited unexpectedly: exit_code=34
+
+9월 07, 2023 15:05:24.901 NEW SESSION
+9월 07, 2023 15:05:24.901 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 07, 2023 15:07:34.264 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 07, 2023 15:42:15.848 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 07, 2023 15:48:07.936 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 07, 2023 15:57:41.998 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 07, 2023 15:59:23.832 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 07, 2023 16:03:11.362 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 07, 2023 16:07:49.429 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 07, 2023 16:11:49.456 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+9월 08, 2023 09:17:51.757 NEW SESSION
+9월 08, 2023 09:17:51.757 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 09:19:18.840 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 09:20:03.190 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 09:20:47.401 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 12:14:28.351 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 12:18:12.114 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 12:18:47.345 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 12:18:54.594 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 12:38:03.918 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 12:38:45.399 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 12:46:57.401 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 14:20:33.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 14:27:39.804 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 14:28:01.775 [3552:14844:0908/142801.775:ERROR:backend_impl.cc(1423)] Unable to map Index file
+9월 08, 2023 14:28:02.110 기존 브라우저 세션에서 여는 중입니다.
+9월 08, 2023 14:28:04.770 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 14:40:24.656 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 14:41:34.254 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 14:42:38.230 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 14:51:08.561 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 14:55:06.859 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 14:55:53.191 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 14:59:51.532 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 15:07:44.739 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 15:12:25.909 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 16:11:47.278 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 16:11:53.857 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 16:14:11.717 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 16:15:07.398 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 16:15:26.134 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 16:16:27.603 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+9월 08, 2023 16:18:13.821 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="33">
-    <list key="modules" value0="ajaxPrj_0906_movie_practice::org.eclipse.jst.jee.server:ajaxPrj_0906_movie_practice::jst.web::4.0" value1="ajaxPrj_0906::org.eclipse.jst.jee.server:ajaxPrj_0906::jst.web::4.0"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="39">
+    <list key="modules" value0="prj0908_Training::org.eclipse.jst.jee.server:prj0908_Training::jst.web::4.0" value1="prj0908_EL::org.eclipse.jst.jee.server:prj0908_EL::jst.web::4.0"/>
   </server>
 </servers>

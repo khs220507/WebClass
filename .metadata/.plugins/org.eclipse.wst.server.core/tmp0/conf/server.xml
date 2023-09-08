@@ -160,7 +160,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\khs22\Desktop\workspace\web_workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\khs22\Desktop\workspace\web_workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ajaxPrj_0906_movie_practice" path="/ajaxPrj_0906_movie_practice" reloadable="true" source="org.eclipse.jst.jee.server:ajaxPrj_0906_movie_practice"/><Context docBase="C:\Users\khs22\Desktop\workspace\web_workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ajaxPrj_0906" path="/ajaxPrj_0906" reloadable="true" source="org.eclipse.jst.jee.server:ajaxPrj_0906"/></Host>
+      <Context docBase="C:\Users\khs22\Desktop\workspace\web_workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\khs22\Desktop\workspace\web_workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\prj0908_Training" path="/prj0908_Training" reloadable="true" source="org.eclipse.jst.jee.server:prj0908_Training"/><Context docBase="C:\Users\khs22\Desktop\workspace\web_workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\prj0908_EL" path="/prj0908_EL" reloadable="true" source="org.eclipse.jst.jee.server:prj0908_EL"/></Host>
     </Engine>
   </Service>
 </Server>

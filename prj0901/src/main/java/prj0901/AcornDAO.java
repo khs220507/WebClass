@@ -179,7 +179,6 @@ public class AcornDAO {
 				e.printStackTrace();
 			}
 		}
-
 	}
 	
 	public void updateMember(Customer c) {
