@@ -11,7 +11,6 @@
     <fullyQualifiedTypeName name="prj0901.AcornService"/>
     <fullyQualifiedTypeName name="prj0901.Customer"/>
     <fullyQualifiedTypeName name="prj0901_Training.CoffeeDAO"/>
-    <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="javax.swing.text.DefaultHighlighter.DefaultHighlightPainter"/>
     <fullyQualifiedTypeName name="javax.security.auth.message.callback.PrivateKeyCallback.Request"/>
     <fullyQualifiedTypeName name="prj0901_Training.CoffeeService"/>
@@ -32,15 +31,23 @@
     <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
     <fullyQualifiedTypeName name="trining.Coffee"/>
     <fullyQualifiedTypeName name="java.security.interfaces.RSAKey"/>
-    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
-    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-    <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="Acorn.Acorn"/>
     <fullyQualifiedTypeName name="Acorn.AcornDAO"/>
-    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
-    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
     <fullyQualifiedTypeName name="Acorn.AcornServlet"/>
     <fullyQualifiedTypeName name="Acorn.AcornService"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="page.Member"/>
+    <fullyQualifiedTypeName name="java.lang.Package"/>
+    <fullyQualifiedTypeName name="page.MemberDao2"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="page.PageHandler"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="prj0911_paging_practice.Acorn"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="prj0911_paging_practice.AcornDAO"/>
+    <fullyQualifiedTypeName name="prj0911_paging_practice.PageHandler"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
