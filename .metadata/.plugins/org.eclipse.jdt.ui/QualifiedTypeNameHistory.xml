@@ -22,7 +22,6 @@
     <fullyQualifiedTypeName name="prj0905_myProject.TheaterDAO"/>
     <fullyQualifiedTypeName name="prj0905_myProject.Customer"/>
     <fullyQualifiedTypeName name="java.sql.DriverManager"/>
-    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
     <fullyQualifiedTypeName name="oracle.sql.json.OracleJsonObject"/>
     <fullyQualifiedTypeName name="org.json.JSONObject"/>
     <fullyQualifiedTypeName name="prj0907_testPractice.Member"/>
@@ -45,9 +44,12 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
-    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
-    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
     <fullyQualifiedTypeName name="prj0911_paging_practice.AcornDAO"/>
     <fullyQualifiedTypeName name="prj0911_paging_practice.PageHandler"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="acorn.AcornDAO"/>
+    <fullyQualifiedTypeName name="acorn.AcornService"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+    <fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
 </qualifiedTypeNameHistroy>

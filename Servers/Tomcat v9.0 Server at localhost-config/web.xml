@@ -4643,12 +4643,22 @@
 	<servlet>
 		<servlet-name>first</servlet-name>
 		<servlet-class>prj.SecondServlet</servlet-class>
-</servlet>
+	</servlet>
 
 	<servlet-mapping>
 		<servlet-name>first</servlet-name>
 		<url-pattern>/hi2</url-pattern>
 	</servlet-mapping>
+
+	<error-page>
+		<exception-type>java.lang.NullPointerException</exception-type>
+		<location>/errorHandle</location>
+	</error-page>
+
+	<error-page>
+		<error-code>404</error-code>
+		<location>/errorHandle2</location>
+	</error-page>
 
 
 </web-app>
