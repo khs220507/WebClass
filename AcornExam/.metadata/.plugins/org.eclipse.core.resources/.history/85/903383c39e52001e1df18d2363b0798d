@@ -1,0 +1,7 @@
+package acornPrj;
+
+public class Acorn {
+	String id;
+	String pw;
+	String name;
+}
